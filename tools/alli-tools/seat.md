@@ -18,37 +18,37 @@
 
 * 登陆SeAT系统网站（[https://seat.winterco.org](https://seat.winterco.org)）
 
-![](../../.gitbook/assets/1583815718774-ddb662d1f7a5eaa3.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/1583815718774-ddb662d1f7a5eaa3.png)
 
 * 输入EVE Online账号和密码，登录游戏账号。
 
 **注意：Steam账号务必先手动在**[**EVE官网**](https://login.eveonline.com)**进行登录，登录可能会需要VPN。官网注册账号，但是显示登录超时（login session expired），需要手动在**[**EVE官网**](https://login.eveonline.com)**进行登录，之后会直接跳转到授权页面**。
 
-![](../../.gitbook/assets/1583815718775-0732a184d2651098.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/1583815718775-0732a184d2651098.png)
 
 * 进入授权确认页，点击“Authorize”，授权成功后跳转回SeAT系统，即是完成了SSO验证。
 
-![](../../.gitbook/assets/1583815718775-7deea2ba4a67b460.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/1583815718775-7deea2ba4a67b460.png)
 
 * 完成验证以后，联系创世学院群的带教官头衔的管理员，将SeAT网站的截图发送给他。
 
-![](../../.gitbook/assets/1586967167507-68b146b079ad079b.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/1586967167507-68b146b079ad079b.png)
 
 ## 2.个人资料设置
 
 * 点击SeAT系统右上角头像，再点击“个人资资料”。选择常用主角色并设置昵称（方便日常交流时称呼），将语言设置为中文，最后点击更新保存设置。
 
-![](../../.gitbook/assets/1583815718776-e2fe74e66b866682.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/1583815718776-e2fe74e66b866682.png)
 
 ## 3.设置绑定QQ
 
 * 点击SeAT系统左侧菜单`绑定QQ号`，输入qq，点击确定。
 
-![](../../.gitbook/assets/snipaste_2020-10-07_19-12-59.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-10-07_19-12-59.png)
 
 ## 4.添加其他帐号角色
 
 * 点击SeAT系统右上角头像，再点击“添加新角色”，登陆账号重复（1）中验证SSO步骤，此处不再赘述。
 
-![](../../.gitbook/assets/1583815718778-42e12f5dc52a7faa.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/1583815718778-42e12f5dc52a7faa.png)
 

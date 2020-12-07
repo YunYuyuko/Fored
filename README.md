@@ -1,4 +1,4 @@
-# 欢迎加入拂晓商业公司
+# 欢迎加入拂晓商业公司（Foredawn Business Corporation）
 
 ![&#x4F0A;&#x5361;&#x6D1B;&#x65AF;&#x4E4B;&#x7FFC;](.gitbook/assets/image.png)
 

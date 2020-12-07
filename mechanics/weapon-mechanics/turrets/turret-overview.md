@@ -50,7 +50,7 @@ T2弹药可以提供更多战术选择或在特定条件下使用，**它并不�
 
 ## 混合炮
 
-![](../../../.gitbook/assets/icon_turret_blaster_large.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/icon_turret_blaster_large.png)
 
 ### 炮台
 
@@ -129,7 +129,7 @@ T2弹药可以提供更多战术选择或在特定条件下使用，**它并不�
 
 ## 射弹炮
 
-![](../../../.gitbook/assets/icon_turret_autocannon_large.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/icon_turret_autocannon_large.png)
 
 ### 炮台
 
@@ -185,7 +185,7 @@ T2弹药可以提供更多战术选择或在特定条件下使用，**它并不�
 
 ## 能量炮
 
-![](../../../.gitbook/assets/icon_turret_beam_large.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/icon_turret_beam_large.png)
 
 ### 炮台
 
@@ -249,7 +249,7 @@ T2弹药可以提供更多战术选择或在特定条件下使用，**它并不�
 
 ## 先驱者武器
 
-![](../../../.gitbook/assets/icon_turret_entropic_disintegrator_large.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/icon_turret_entropic_disintegrator_large.png)
 
 ### 炮台
 
@@ -282,7 +282,7 @@ T2异种等离子弹只能用于T2，势力和官员熵能分解者一起使用�
 
 ## 电弧弦投射器
 
-![](../../../.gitbook/assets/icon_turret_vorton_projector_large.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/icon_turret_vorton_projector_large.png)
 
 ### 炮台
 

@@ -45,7 +45,7 @@
 * 放大节点
 * 增强引力子反应堆
 
-![](../../../.gitbook/assets/pei-zhi-.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/pei-zhi-.png)
 
 **跑路时将子系统更换为 拦截湮灭 和 隐形优化器，装上 T2 隐形装置。**
 
@@ -53,7 +53,7 @@
 
 使用破译卡技能需求：**等离子物理学 4 级**
 
-![](../../../.gitbook/assets/ka-.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/ka-.png)
 
 ## 打法介绍
 

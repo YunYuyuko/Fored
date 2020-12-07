@@ -4,19 +4,19 @@
 
 1. 如果你的左侧快捷栏没有合同按钮，请点击最左上角的“E”-金融-合同，记得右键添加到快捷栏。
 
-![](../.gitbook/assets/0.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/0.png)
 
 2.点开之后的开始界面显示的是总览信息，如自己可以创建多少合同等。需要注意的是，如果有合同挂给你，将在图中的红色框框处显示。
 
-![](../.gitbook/assets/1%20%283%29%20%281%29.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/1%20%283%29%20%281%29.png)
 
 3.第二页为“我的合同”，通过调整中间的“状态”栏来搜索合同查看所有与自己有关的合同，包括：未决合同，进程中的合同和已完成的合同，等。之后可以通过左侧的合同类型和发布人进行筛选。每次更改条目后记得点击右侧的“加载合同”。
 
-![](../.gitbook/assets/2%20%283%29.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/2%20%283%29.png)
 
 1. 第三页为“可用合同”，用于搜索合同，十分重要。
 
-![](../.gitbook/assets/4.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/4.png)
 
 ①填写所需购买的物品，如舰船、装备、蓝图，脑插等物品的名字，不填写则将显示所有合同。
 

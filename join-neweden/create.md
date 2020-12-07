@@ -20,5 +20,3 @@
 
 创建角色后的新手操作教程完成后，需完成**职业代理人，**详见：
 
-{% embed url="https://wiki.chuangshiqingyu.com/profession" caption="" %}
-

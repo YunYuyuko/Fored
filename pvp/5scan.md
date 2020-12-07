@@ -22,11 +22,11 @@ description: 创作者：Fraternity.联盟 Fuxi Legion公司 Link Noel（林克�
 
 1）图标开启 ，点击仪表盘左面的Scanners，
 
-![](../.gitbook/assets/1%20%284%29.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/1%20%284%29.png)
 
 选择 Directional Scanner，即可打开舰载扫描页面。
 
-![](../.gitbook/assets/2%20%282%29.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/2%20%282%29.png)
 
 2）快捷键
 
@@ -42,86 +42,86 @@ Alt + D与V的不同之处在于，Alt + D仅仅只是打开舰载扫描页面�
 
 打开舰载扫描页面（以OSY-UD星系为例），你可以看到默认页面，在此一一介绍，
 
-![](../.gitbook/assets/3%20%282%29.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/3%20%282%29.png)
 
 页面分为两个部分，
 
 1）舰载扫描
 
-![](../.gitbook/assets/4%20%282%29.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/4%20%282%29.png)
 
 2）星系图
 
-![](../.gitbook/assets/5%20%282%29.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/5%20%282%29.png)
 
 在整个页面中有很多可供操作与选择的内容，
 
 页面左上角的两个图标，
 
-![](../.gitbook/assets/11%20%281%29.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/11%20%281%29.png)
 
 第一个图标，点击之后出现一个列表，里面有各种信息选择，这列信息的选择与否代表是否在星系图中显示该项，
 
 举例说明，选择第一项Asteroid Belt，即可在页面右边的星系图显示出行星带，
 
-![](../.gitbook/assets/7.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/7.png)
 
-![](../.gitbook/assets/8.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/8.png)
 
 将Asteroid Belt取消， 则页面右边的星系图不再显示行星带
 
-![](../.gitbook/assets/9.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/9.png)
 
-![](../.gitbook/assets/10.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/10.png)
 
 第二个图标，点击之后页面右边的星系图自动恢复到，自己所在星系的位置。
 
-![](../.gitbook/assets/11.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/11.png)
 
 ![](file:///C:/Users/ZY/AppData/Local/Temp/msohtmlclip1/01/clip_image022.jpg)  
 舰载扫描页面
 
-![](../.gitbook/assets/12.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/12.png)
 
 其中，右上角
 
-![](../.gitbook/assets/13.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/13.png)
 
 代表将舰载扫描作为独立窗口使用，用于精简及规划窗口分布使用。
 
 在Scan Results右边有三个选项
 
-![](../.gitbook/assets/14.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/14.png)
 
 第一个为Align with Camera，即将船体视角与扫描方向同步，
 
-![](../.gitbook/assets/15.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/15.png)
 
 以默认设置为例（Range 5.0AU，Angle 90°），点击以后，会在星系图中显示重叠视角，
 
-![](../.gitbook/assets/16.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/16.png)
 
 此时可以在星系图中移动视角到你想要扫描的方向，进行扫描。
 
 第二个为Show Scan Cone，即为显示扫描圆锥
 
-![](../.gitbook/assets/17.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/17.png)
 
 点亮时，在星系图中显示绿色的扫描圆锥线，点暗时则不显示。
 
 第三个为扫描结果过滤选项，默认设置为All，即扫描结果全部显示，
 
-![](../.gitbook/assets/18.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/18.png)
 
 系统还提供默认的其他扫描结果过滤选项，另外，还可以根据玩家自行设置的总览选项来进行过滤选项，一般来说，为了方便使用，选择系统默认的PvP过滤选项即可进行常用的扫描过滤选择。
 
 中间为扫描结果框，扫描结果均会显示在这里。
 
-![](../.gitbook/assets/19.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/19.png)
 
 底部为扫描设置框，Range为扫描距离，之后的“AU”按钮可以点击更换为km，Angle为扫描角度。
 
-![](../.gitbook/assets/20.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/20.png)
 
 ### 3.常用的扫描设置
 

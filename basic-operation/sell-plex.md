@@ -6,7 +6,7 @@
 
 * 在官网或者Steam上购买PLEX后，PLEX会出现在PLEX保险库中。
 
-![](../.gitbook/assets/1586585154408-0711ca99da9ec4a9.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/1586585154408-0711ca99da9ec4a9.png)
 
 ### 市场出售PLEX
 
@@ -16,7 +16,7 @@
 * 请勿贪小便宜把PLEX放入舰船机库随船携带，将PLEX放入PLEX保险库就可以随身携带。
 * 市场出售缺点在于缴纳的市场销售税较高。
 
-![](../.gitbook/assets/1586585090324-ab87824be2c5cf50.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/1586585090324-ab87824be2c5cf50.png)
 
 ### 合同出售PLEX
 
@@ -25,13 +25,11 @@
 * 500PLEX的定价不要使用预估价格，可以使用合同搜索（合同使用方法）找到目前500PLEX的价格。
 * 创建合同完成后，可以将合同拖至吉他本地频道、中文频道内叫卖，在加入Chuangshi以后可以在军团、联盟频道询问有无购买者，或者发邮件在联盟交易邮件列表中。
 
-![](../.gitbook/assets/1586585197100-7269674b73981c81.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/1586585197100-7269674b73981c81.png)
 
-![](../.gitbook/assets/1586590262206-cd5e3848ae922ab0.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/1586590262206-cd5e3848ae922ab0.png)
 
-![](../.gitbook/assets/1586585211926-063f9489e069613c.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/1586585211926-063f9489e069613c.png)
 
-![](../.gitbook/assets/1586585221239-80a70177da1b03e8.png)
-
-
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/1586585221239-80a70177da1b03e8.png)
 

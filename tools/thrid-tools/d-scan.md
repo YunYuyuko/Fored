@@ -14,7 +14,7 @@
 
 ### [https://dscan.info/](https://dscan.info/)
 
-![](../../.gitbook/assets/tim-jie-tu-20191202223535.jpg)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/tim-jie-tu-20191202223535.jpg)
 
 首先打开D-Scan网站 ，
 
@@ -24,17 +24,17 @@
 
 在扫描结果页面按Ctrl+A全选，按Ctrl+C复制，
 
-![](../../.gitbook/assets/tim-jie-tu-20191202223908.jpg)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/tim-jie-tu-20191202223908.jpg)
 
 切换到D-Scan网页，在黄色方框中按Ctrl+V粘贴，点击“提交”，
 
-![](../../.gitbook/assets/tim-jie-tu-20191202223946.jpg)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/tim-jie-tu-20191202223946.jpg)
 
 跳转链接即可得出扫描结果
 
-![](../../.gitbook/assets/tim-jie-tu-20191202224101.jpg)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/tim-jie-tu-20191202224101.jpg)
 
 得出扫描结果后复制网页链接到舰队中发送，指挥官即可点击连接直接查看D-Scan结果
 
-![](../../.gitbook/assets/tim-jie-tu-20191202224207.jpg)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/tim-jie-tu-20191202224207.jpg)
 

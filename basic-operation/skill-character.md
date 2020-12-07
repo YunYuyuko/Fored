@@ -2,9 +2,9 @@
 
 点击左上角头像，即可打开`人物表单`
 
-![](../.gitbook/assets/snipaste_2020-08-15_12-43-54.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-15_12-43-54.png)
 
-![](../.gitbook/assets/snipaste_2020-08-15_13-55-34.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-15_13-55-34.png)
 
 ## 技能
 
@@ -12,7 +12,7 @@ EVE 中大约有 400 种技能，将全部技能升到最高级需要近 20 年�
 
 EVE 中，技能分为以下几类
 
-![](../.gitbook/assets/snipaste_2020-08-15_12-51-17.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-15_12-51-17.png)
 
 ### 技能简述
 
@@ -48,13 +48,13 @@ EVE 中，技能分为以下几类
 
 一般技能可将鼠标悬浮于技能上，点击购买即可
 
-![](../.gitbook/assets/snipaste_2020-08-15_13-41-23%20%281%29.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-15_13-41-23%20%281%29.png)
 
 #### 实体书
 
 通过市场购买实体书，价格相比电子书**便宜 30%左右**
 
-![](../.gitbook/assets/snipaste_2020-08-15_13-43-37.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-15_13-43-37.png)
 
 注：三神裔技能书和旗舰技能书仅可购买实体书
 
@@ -62,27 +62,27 @@ EVE 中，技能分为以下几类
 
 可通过将技能直接下拉至训练列表进行训练
 
-![](../.gitbook/assets/snipaste_2020-08-15_13-45-38.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-15_13-45-38.png)
 
 也可将鼠标悬浮于技能之上，点击训练
 
-![](../.gitbook/assets/snipaste_2020-08-15_13-45-50.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-15_13-45-50.png)
 
 ### 前置、适用
 
 高级技能需要先训练前置技能解锁
 
-![](../.gitbook/assets/snipaste_2020-08-15_13-49-45.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-15_13-49-45.png)
 
 每个技能都只适用于指定的装备或舰船
 
-![](../.gitbook/assets/snipaste_2020-08-15_13-49-56.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-15_13-49-56.png)
 
 ### 训练速度
 
 技能训练速度受对应的天赋影响，将鼠标悬浮于分类上即可查看
 
-![](../.gitbook/assets/snipaste_2020-08-15_13-53-18.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-15_13-53-18.png)
 
 ## 人物角色
 

@@ -4,17 +4,17 @@
 
 在Zkillboard中打开一个KB，点击右上`Related`
 
-![](../../.gitbook/assets/snipaste_2020-10-07_21-51-30.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-10-07_21-51-30.png)
 
 即可快速查看战斗报告
 
-![](../../.gitbook/assets/snipaste_2020-10-07_21-53-26.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-10-07_21-53-26.png)
 
 使用`evetools`可查看更准确的报告
 
-![](../../.gitbook/assets/snipaste_2020-10-07_21-54-13.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-10-07_21-54-13.png)
 
-![](../../.gitbook/assets/snipaste_2020-10-07_21-54-49.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-10-07_21-54-49.png)
 
 ## 自定义战斗报告
 
@@ -26,11 +26,11 @@
 
 设置好星系，时间，点击 `Analyze` 分析
 
-![](../../.gitbook/assets/snipaste_2020-10-07_21-59-09.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-10-07_21-59-09.png)
 
 分析完成后，点击`Create Battle Report` 创建战斗报告
 
-![](../../.gitbook/assets/snipaste_2020-10-07_22-01-57.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-10-07_22-01-57.png)
 
-![](../../.gitbook/assets/snipaste_2020-10-07_22-03-35.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-10-07_22-03-35.png)
 

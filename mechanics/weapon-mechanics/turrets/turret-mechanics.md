@@ -21,7 +21,7 @@
 
 由于命中几率的计算方式，范围和跟踪不会相互影。总的来说，对于静止的目标，可以忽略跟踪部分；而对于处于最佳范围内的目标，可以忽略范围部分。
 
-![](../../../.gitbook/assets/QST_turret_range.gif)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/QST_turret_range.gif)
 
 ## 范围
 
@@ -45,13 +45,13 @@
 
 目标角速度的计算为 ω= v/ d，其中 v 是目标相对于炮台的横向移动速度，d 是至目标的距离。
 
-![](../../../.gitbook/assets/256px-Orbit_angular_velcoity.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/256px-Orbit_angular_velcoity.png)
 
 也就是说角速度取决于目标横向移动速度和距离：横向移动速度越快，角速度越高；距离越长，角速度越慢。
 
 而目标的绝对速度将不会显得很重要：如果目标以很快的速度，垂直向炮台冲来或远离，角速度仍为零；如果目标的速度不是非常快，但他以很短的距离环绕炮台，那么角速度将会很高。
 
-![](../../../.gitbook/assets/256px-Angular_velocity.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/256px-Angular_velocity.png)
 
 游戏中总览可以显示目标的角速度。角速度和`炮台跟踪速度`决定了炮台的命中率。依靠高角速度来进行防御被称为速度抗。
 
@@ -105,7 +105,7 @@ $$
 
 综上所述，随着命中率的降低，一旦击中，将造成更大伤害。这种关系不是线性的，当目标在最佳+衰减距离时，命中率为 50%，而理论理论上只会造成基础伤害的 40%，而不是 50%。
 
-![](../../../.gitbook/assets/500px-Turret_HitChance_and_AverageDamage.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/500px-Turret_HitChance_and_AverageDamage.png)
 
 命中率为 100%的，则每次攻击只会造成 50% ~ 149%的基础伤害。但当命中率降低时，随机的伤害也会变高。因此，可以通过两种方式减少平均伤害：降低敌方命中率，使得完全无法命中自己；使击中的伤害降低。因此，平均伤害总是会比命中率低。
 

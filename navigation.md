@@ -18,13 +18,7 @@ DYS-CG -&gt; RF-X7V
 
 RF-X7V 跳桥
 
-OP7-BP -&gt; 6-1T6Z  跳桥
+OP7-BP -&gt; 6-1T6Z 跳桥
 
 MTO2-2 -&gt; P-VYVL
-
-
-
-
-
-
 

@@ -4,11 +4,11 @@
 
 每艘船都有一台发电机，它可以自动发电并存储。船上安装的主动装备在运行时会消耗电容。
 
-![](../../.gitbook/assets/capacitor.jpg)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/capacitor.jpg)
 
 ## 控电
 
-![](../../.gitbook/assets/200px-fitcapacitor.jpg)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/200px-fitcapacitor.jpg)
 
 当你完全没有电容后，将会有以下情况：
 
@@ -32,7 +32,7 @@
 * 您的电容容量越接近25％，充电速度就越快。
 * 低于此值时，充电速率将快速下降。
 
-![](../../.gitbook/assets/400px-capacitor_recharge.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/400px-capacitor_recharge.png)
 
 ## 技能
 

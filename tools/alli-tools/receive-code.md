@@ -10,11 +10,11 @@
 
 2.打开网址 5 秒后，页面右下角弹出“在线交谈”按钮，点击
 
-![](../../.gitbook/assets/wei-xin-jie-tu-20191207002918.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/wei-xin-jie-tu-20191207002918.png)
 
 3.填写你的账户信息
 
-![](../../.gitbook/assets/wei-xin-jie-tu-20191207002930.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/wei-xin-jie-tu-20191207002930.png)
 
 第一行填写你的 游戏角色名  
 第二行填写你的注册邮箱  

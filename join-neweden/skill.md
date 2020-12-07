@@ -10,7 +10,7 @@
 
 训练完以下技能后，你就拥有了个可以永动，有一定抗性，并且伤害入门的毒蜥（注：阿尔法账号无法永动，可关闭一个主动抗）
 
-![](../.gitbook/assets/snipaste_2020-09-19_19-22-13.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-09-19_19-22-13.png)
 
 ```text
 Caldari Frigate III

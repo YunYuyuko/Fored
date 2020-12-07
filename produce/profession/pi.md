@@ -16,11 +16,11 @@ EVE 中的行星开发俗称“种菜”，主要是指在星系行星上建造�
 
 行星产物按照加工等级由低到高分为五个等级，一般简称 P0/P1/P2/P3/P4。 其中 p0 原材料可通过采集直接获取，而 p0 以上产物则都是由低级产物合成加工 得到。因为 p0 产物体积巨大且每种 p0 只能对应加工形成一种 p1，故其采集时 一般就同时加工成 p1，游戏中常看到的也都是 p1 及以上产物
 
-![](../../.gitbook/assets/snipaste_2020-07-19_18-21-53.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-07-19_18-21-53.png)
 
 EVE 中一共有 8 种不同行星球类型，每个星球产出五种不同 P0，且产出类 型和产量各不相同，其对应产出和产量如右下图。
 
-![](../../.gitbook/assets/snipaste_2020-07-19_18-22-41.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-07-19_18-22-41.png)
 
 ### 1.3 行星产物主要用来做什么？
 
@@ -38,7 +38,7 @@ EVE 中一共有 8 种不同行星球类型，每个星球产出五种不同 P0�
 
 按照本教程种菜方案需要的技能要求如下，大概需要 5 天时间。这里主要需 要 5 个星球种菜（4 个产 p1，一个加工 p3），前期技能不够可以先全部学到 3， 用 4 个星球产 p1，等积累一定 p1 材料后，再开始加工产出 p3。
 
-![](../../.gitbook/assets/snipaste_2020-07-19_18-26-03.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-07-19_18-26-03.png)
 
 每个行星进行开采前需要配置相关建筑方案。首先，需要安装对应星球类型 的`指挥中心`，`指挥中心`可以在吉他 NPC 直接购买，很便宜，**大概 1m 一个**。有了 指挥中心就可以开始建造采集器、仓库、加工厂等建筑，会收取一定费用**一个球 大概花 1-2m**。
 
@@ -46,9 +46,9 @@ EVE 中一共有 8 种不同行星球类型，每个星球产出五种不同 P0�
 
 另外就是运菜需要一条专门的工业舰，配下来大概 **2m。**
 
-![](../../.gitbook/assets/snipaste_2020-07-19_18-27-34.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-07-19_18-27-34.png)
 
-![&#x5168;&#x88C5;&#x8239;&#x53EF;&#x4EE5;&#x627E;&#x6211;&#x8BA2; 4 &#x5C0F;&#x65F6;&#x53D6;&#x8D27;&#xFF0C;&#x7ED9;&#x6211;&#x53D1;&#x90AE;&#x4EF6;&#xFF0C;&#x7B2C;&#x4E00;&#x6761;&#x514D;&#x8D39;](../../.gitbook/assets/snipaste_2020-07-19_18-28-09.png)
+![&#x5168;&#x88C5;&#x8239;&#x53EF;&#x4EE5;&#x627E;&#x6211;&#x8BA2; 4 &#x5C0F;&#x65F6;&#x53D6;&#x8D27;&#xFF0C;&#x7ED9;&#x6211;&#x53D1;&#x90AE;&#x4EF6;&#xFF0C;&#x7B2C;&#x4E00;&#x6761;&#x514D;&#x8D39;](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-07-19_18-28-09.png)
 
 ## 2.开采方案
 
@@ -58,9 +58,9 @@ EVE 中一共有 8 种不同行星球类型，每个星球产出五种不同 P0�
 
 机器人技术的加工路线和星球选择：
 
-![](../../.gitbook/assets/snipaste_2020-07-19_18-29-14.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-07-19_18-29-14.png)
 
-![](../../.gitbook/assets/snipaste_2020-07-19_18-33-16.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-07-19_18-33-16.png)
 
 ### 2.1 开采星球的建筑配置方案
 
@@ -74,9 +74,9 @@ EVE 中一共有 8 种不同行星球类型，每个星球产出五种不同 P0�
 6 基础工业设施
 ```
 
-![](../../.gitbook/assets/snipaste_2020-07-19_18-34-55.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-07-19_18-34-55.png)
 
-![](../../.gitbook/assets/snipaste_2020-07-19_18-35-10.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-07-19_18-35-10.png)
 
 注意**建筑位置要选在产量丰富的地方，加工设施紧围着仓库以节约传送带 长度。采集器可根据产量图每次重新调整位置**。产物加工传送路线为：采集器 p0&gt;&gt; 仓库&gt;&gt;加工厂&gt;&gt;海关。海关 p1 满后收取即可。**建议采集器开采周期为 28 小时 （即一天配置一次）。**
 
@@ -91,13 +91,13 @@ EVE 中一共有 8 种不同行星球类型，每个星球产出五种不同 P0�
 15 个高级工业设施（6 个产机械元件、6 个产消费级电器、3 个产机器人技术）
 ```
 
-![](../../.gitbook/assets/snipaste_2020-07-19_18-37-26.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-07-19_18-37-26.png)
 
-![](../../.gitbook/assets/snipaste_2020-07-19_18-38-11.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-07-19_18-38-11.png)
 
-![](../../.gitbook/assets/snipaste_2020-07-19_18-38-32.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-07-19_18-38-32.png)
 
-![](../../.gitbook/assets/snipaste_2020-07-19_18-38-52.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-07-19_18-38-52.png)
 
 具体加工运作流程为：
 
@@ -111,31 +111,31 @@ EVE 中一共有 8 种不同行星球类型，每个星球产出五种不同 P0�
 
 ### 3.1 P3机器人技术（t2武器、无人机制造、燃料块制造）
 
-![](../../.gitbook/assets/snipaste_2020-07-19_18-41-48.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-07-19_18-41-48.png)
 
 ### 3.2 P3制导系统（t2无人机制造）
 
-![](../../.gitbook/assets/snipaste_2020-07-19_18-41-58.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-07-19_18-41-58.png)
 
 ### 3.3 P2冷却剂（燃料块制造）
 
-![](../../.gitbook/assets/snipaste_2020-07-19_18-42-10.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-07-19_18-42-10.png)
 
 ### 3.4 P2核能燃料（燃料块制造）
 
-![](../../.gitbook/assets/snipaste_2020-07-19_18-42-19.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-07-19_18-42-19.png)
 
 ### 3.5 P2机械元件（燃料块制造）
 
-![](../../.gitbook/assets/snipaste_2020-07-19_18-42-31.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-07-19_18-42-31.png)
 
 ### 3.5 p1氧（燃料块制造）
 
-![](../../.gitbook/assets/snipaste_2020-07-19_18-42-41.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-07-19_18-42-41.png)
 
 ## 科普
 
 燃料块主要用于维持堡垒建筑的各项服务和正常运作，如工业制造、精炼、堡垒 防御、月矿牵引、跳桥等，消耗十分巨大也是军团和联盟维护的主要开支。以氮 染料块为例，其制造所需材料如下，推荐成员优先产出，军团回收:
 
-![](../../.gitbook/assets/snipaste_2020-07-19_18-42-53%20%281%29%20%281%29.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-07-19_18-42-53%20%281%29%20%281%29.png)
 

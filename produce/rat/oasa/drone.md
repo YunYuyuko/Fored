@@ -2,17 +2,15 @@
 
 ## 配置
 
-**军团首页**可查看各类刷怪配置
+以下配置即教程为欧莎无人机怪为主，可以根据自身需求调整
 
-> 以下配置即教程为欧莎无人机怪为主，可以根据自身需求调整
->
 > 以下数据均以军团配置为准
 
-![](../../../.gitbook/assets/snipaste_2020-08-01_21-56-07.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-01_21-56-07.png)
 
 欧莎为**无人机怪** 防御弱**电伤**，因此用艾玛无人机，攻击为**全伤**，因此使用全抗
 
-一下数值为`Pafy装配` **\*\*模拟，**DPS经过预设`无人机怪` 的抗性造成衰减，以避免DPS因伤害类型造成虚高\*\*
+一下数值为`Pafy装配` **\*\*模拟，**DPS经过预设`无人机怪` 的抗性造成衰减，以避免DPS因伤害类型造成虚高
 
 ### 毒蜥（Gila）
 
@@ -28,7 +26,7 @@
 
 缺点：贵（相对于新人）、受持续伤害能力差、**技能与伊什塔重复度低**，升至伊什塔有一定难度
 
-![](../../../.gitbook/assets/snipaste_2020-08-01_22-59-43.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-01_22-59-43.png)
 
 ### 伊什塔（YST）
 
@@ -44,9 +42,9 @@
 
 缺点：技能需求高、**突击损控进入CD or 无突击损控时**，遇到**超高伤害**攻击可能暴毙
 
-![&#x65E0;&#x7A81;&#x51FB;&#x635F;&#x63A7;](../../../.gitbook/assets/snipaste_2020-08-01_23-24-14.png)
+![&#x65E0;&#x7A81;&#x51FB;&#x635F;&#x63A7;](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-01_23-24-14.png)
 
-![&#x5F00;&#x7A81;&#x51FB;&#x635F;&#x63A7;](../../../.gitbook/assets/snipaste_2020-08-01_23-24-25.png)
+![&#x5F00;&#x7A81;&#x51FB;&#x635F;&#x63A7;](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-01_23-24-25.png)
 
 ### 海狂怒（VNI）
 
@@ -62,7 +60,7 @@
 
 缺点：收益低
 
-![](../../../.gitbook/assets/snipaste_2020-08-02_08-47-30.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-02_08-47-30.png)
 
 名词解释：
 
@@ -93,13 +91,13 @@
 
 海狂怒与伊什塔同为盖伦特巡洋，且均使用**重型无人机**。因船体加成，盖伦特巡洋技能越高，DPS越高。**升级至伊什塔时可同时提升现有收益**。
 
-![&#x76D6;&#x4F26;&#x7279;&#x5DE1;&#x6D0B;&#x6BCF;&#x5347;&#x4E00;&#x7EA7;&#xFF0C;&#x589E;&#x52A0;10%&#x65E0;&#x4EBA;&#x673A;DPS](../../../.gitbook/assets/snipaste_2020-08-02_09-16-31.png)
+![&#x76D6;&#x4F26;&#x7279;&#x5DE1;&#x6D0B;&#x6BCF;&#x5347;&#x4E00;&#x7EA7;&#xFF0C;&#x589E;&#x52A0;10%&#x65E0;&#x4EBA;&#x673A;DPS](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-02_09-16-31.png)
 
 毒蜥船体特有加成为**500%中无伤害**，**250%中无命中率** ，即上船就有如此加成，且不受其他技能影响。而`盖伦特巡洋` 船体加成为10%动热导弹伤害，而导弹**不是毒蜥主要伤害**，提升不是很大。
 
 毒蜥使用**中型无人机**，而伊什塔使用**重型无人机**，并且毒蜥DPS**受无人机技能加成比船体技能加成高**，这使毒蜥升级为伊什塔难度稍大。
 
-![](../../../.gitbook/assets/snipaste_2020-08-02_09-47-21.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-02_09-47-21.png)
 
 ### 总结：
 
@@ -113,16 +111,16 @@
 
 常用无人机为三种：帝国海军无人机（势力）、T2无人机、加强型无人机（势力）
 
-![](../../../.gitbook/assets/snipaste_2020-08-02_10-40-44.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-02_10-40-44.png)
 
 * 势力无人机**血量均比T2无人机高** ，但**价格均比T2高**
 * 帝国海军无人机伤害与T2相同且只需相应`无人机操控理论`一级，但不受`帝国无人机专业研究`技能加成
 
-![&#x827E;&#x739B;&#x65E0;&#x4EBA;&#x673A;&#x4E13;&#x4E1A;&#x7814;&#x7A76;&#x4EC5;&#x52A0;&#x6210;T2/&#x52A0;&#x5F3A;&#x578B;&#x65E0;&#x4EBA;&#x673A;](../../../.gitbook/assets/snipaste_2020-08-01_20-23-58.png)
+![&#x827E;&#x739B;&#x65E0;&#x4EBA;&#x673A;&#x4E13;&#x4E1A;&#x7814;&#x7A76;&#x4EC5;&#x52A0;&#x6210;T2/&#x52A0;&#x5F3A;&#x578B;&#x65E0;&#x4EBA;&#x673A;](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-01_20-23-58.png)
 
 * 加强型无人机**面板DPS**比T2无人机高，但并非单一伤害类型。
 
-![](../../../.gitbook/assets/snipaste_2020-08-02_10-35-41.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-02_10-35-41.png)
 
 ## 技能
 
@@ -132,75 +130,75 @@
 
 模拟装配左上角不能出现如图 \黄书 的标注，此说明装备**技能不够**。鼠标悬浮于上，可查看所需装备技能
 
-![](../../../.gitbook/assets/snipaste_2020-08-02_10-52-50.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-02_10-52-50.png)
 
 模拟装配右下角 CPU 、 栅格 不能出现红字，此说明你**工程学技能不够**，**无法开启所有装备**。
 
-![](../../../.gitbook/assets/snipaste_2020-08-02_10-56-28.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-02_10-56-28.png)
 
 `CPU管理学` 可提升舰船CPU输出
 
-![](../../../.gitbook/assets/snipaste_2020-08-02_10-59-09.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-02_10-59-09.png)
 
 `能量栅格管理学` 可提升舰船栅格输出
 
-![](../../../.gitbook/assets/snipaste_2020-08-02_11-02-42.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-02_11-02-42.png)
 
 `武器升级研究` 和`高级武器升级研究`可降低炮台，导弹发射器栅格需求
 
-![](../../../.gitbook/assets/snipaste_2020-08-02_11-04-12.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-02_11-04-12.png)
 
 ### 电量
 
 如图所指位置如果为红字，说明装备全开的情况下，无法永动。
 
-![](../../../.gitbook/assets/snipaste_2020-08-02_11-07-45.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-02_11-07-45.png)
 
 `电容管理学` 可提升舰船电容容量
 
-![](../../../.gitbook/assets/snipaste_2020-08-01_20-46-22.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-01_20-46-22.png)
 
 `燃料节约技术` 可减少加力的电容需求量
 
-![](../../../.gitbook/assets/snipaste_2020-08-01_20-49-31.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-01_20-49-31.png)
 
 `加力燃烧器原理` 可减少加力的电容使用量
 
-![](../../../.gitbook/assets/snipaste_2020-08-01_20-47-48.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-01_20-47-48.png)
 
 ### 无人机
 
 对应的 `无人机操控理论` 可提升所有此类无人机DPS。Ⅴ级可解锁`T2`和`加强型`
 
-![&#x91CD;&#x578B;&#x65E0;&#x4EBA;&#x673A;&#x64CD;&#x63A7;&#x7406;&#x8BBA;](../../../.gitbook/assets/snipaste_2020-08-02_11-30-09.png)
+![&#x91CD;&#x578B;&#x65E0;&#x4EBA;&#x673A;&#x64CD;&#x63A7;&#x7406;&#x8BBA;](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-02_11-30-09.png)
 
-![](../../../.gitbook/assets/snipaste_2020-08-02_11-30-55.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-02_11-30-55.png)
 
 帝国`无人机专业研究`可提升对应帝国的各类无人机DPS，仅对`T2`和`加强型`有加成
 
-![&#x827E;&#x739B;&#x65E0;&#x4EBA;&#x673A;&#x4E13;&#x4E1A;&#x7814;&#x7A76;](../../../.gitbook/assets/snipaste_2020-08-02_11-36-43.png)
+![&#x827E;&#x739B;&#x65E0;&#x4EBA;&#x673A;&#x4E13;&#x4E1A;&#x7814;&#x7A76;](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-02_11-36-43.png)
 
-![](../../../.gitbook/assets/snipaste_2020-08-02_11-39-52.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-02_11-39-52.png)
 
 `无人机控制理论` 可提升所有无人机的DPS
 
-![](../../../.gitbook/assets/snipaste_2020-08-02_11-52-48.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-02_11-52-48.png)
 
 `无人机精准射击` 可提升无人机射击最佳范围，以提升无人机命中率
 
-![](../../../.gitbook/assets/snipaste_2020-08-02_11-45-11.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-02_11-45-11.png)
 
 `无人机导航学` 可提升无人机的速度，以减少飞行时间
 
-![](../../../.gitbook/assets/snipaste_2020-08-02_11-48-27.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-02_11-48-27.png)
 
 `无人机电子理论` 和 `高级无人机电子理论` 可增加无人机的操控范围,建议至少在70km以上
 
-![](../../../.gitbook/assets/snipaste_2020-08-02_11-56-18.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-02_11-56-18.png)
 
 * 如果范围不够,可装配搞糟装备 `无人机链接增效器` 
 
-![](../../../.gitbook/assets/snipaste_2020-08-02_11-58-38.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-02_11-58-38.png)
 
 ## 异常类型
 
@@ -210,13 +208,13 @@
 
 其中巡逻队与小队又有**有/无弹窗**之分，难度：无弹窗 &gt; 有弹窗，总收益亦如，但每跳赏金相当
 
-![&#x5DE1;&#x903B;&#x961F;&#x5F39;&#x7A97;](../../../.gitbook/assets/snipaste_2020-08-01_21-27-52.png)
+![&#x5DE1;&#x903B;&#x961F;&#x5F39;&#x7A97;](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-01_21-27-52.png)
 
 以上异常**均会出10/10**，即异常结束时弹出的弹窗。因小队刷的较快，因此出的频率较高，**但几率是一样的**
 
-![&#x5F02;&#x5E38;&#x6BD4;&#x8F83;](../../../.gitbook/assets/snipaste_2020-08-02_12-13-53.png)
+![&#x5F02;&#x5E38;&#x6BD4;&#x8F83;](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-02_12-13-53.png)
 
-![&#x7F51;&#x9875;&#x7FFB;&#x8BD1;](../../../.gitbook/assets/snipaste_2020-08-02_12-14-22.png)
+![&#x7F51;&#x9875;&#x7FFB;&#x8BD1;](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-02_12-14-22.png)
 
 ## 刷怪
 
@@ -224,52 +222,47 @@
 
 军团MOTD中，进入`Winter Rat 报点` 频道
 
-![](../../../.gitbook/assets/snipaste_2020-08-02_12-00-20.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-02_12-00-20.png)
 
 进入`Oasa Rat 报点` 频道
 
-![](../../../.gitbook/assets/snipaste_2020-08-02_12-00-42.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-02_12-00-42.png)
 
 根据所在地进入相应的报点频道
 
-![](../../../.gitbook/assets/snipaste_2020-08-02_12-00-50.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-02_12-00-50.png)
 
 ### 报点
 
 如图操作打开扫描器，或快捷键 `alt + p`
 
-![](../../../.gitbook/assets/snipaste_2020-08-01_21-22-34.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-01_21-22-34.png)
 
-![](../../../.gitbook/assets/snipaste_2020-08-01_21-23-02.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-01_21-23-02.png)
 
 点击如图位置可单独弹出扫描器
 
-![](../../../.gitbook/assets/snipaste_2020-08-01_21-24-03.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-01_21-24-03.png)
 
-![](../../../.gitbook/assets/snipaste_2020-08-01_21-24-19.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-01_21-24-19.png)
 
 刷怪时，点击箭头后，立即停船，以判断目标是否为弹窗异常
 
-![](../../../.gitbook/assets/snipaste_2020-08-01_21-27-42.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-01_21-27-42.png)
 
 当决定要刷某异常时，将**异常编号的后三位数字发至报点频道**，可附带异常简称以帮助他人快速判断
 
-| 异常 | 简称 |
-| :--- | :--- |
-| 巡逻队 | X |
-| 小队 | XD |
-
-![](../../../.gitbook/assets/snipaste_2020-08-01_21-44-30.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-01_21-44-30.png)
 
 然后右键异常可选择落地距离
 
-![](../../../.gitbook/assets/snipaste_2020-08-01_21-26-04.png)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/snipaste_2020-08-01_21-26-04.png)
 
 注意点（通用）：
 
 * **第一时间清除电子战护卫怪！**
 
-![](../../../.gitbook/assets/1224.jpg)
+![](https://github.com/YunYuyuko/Fored/tree/8d1cf07bcc7d93b307afa258f4bd500fa6959b9f/.gitbook/assets/1224.jpg)
 
 * **落地开推环绕建筑或残骸30km**，速度需在500m/s以上
 
@@ -285,7 +278,7 @@
 
 ### 刷怪准备
 
-1.安全生产：[https://wiki.chuangshiqingyu.com/pve/save](https://wiki.chuangshiqingyu.com/pve/save)
+1.安全生产
 
 ### 规避
 
