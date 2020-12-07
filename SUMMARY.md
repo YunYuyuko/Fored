@@ -2,7 +2,7 @@
 
 * [欢迎加入拂晓商业公司](README.md)
 * [拂晓商业公司在新伊甸](fu-xiao-shang-ye-gong-si-zai-xin-yi-dian.md)
-* [如何提问](ru-he-ti-wen.md)
+* [如何提问](how-to-ask-questions.md)
 * [步入新伊甸](bu-ru-xin-yi-dian.md)
 * [职业代理人](zhi-ye-dai-li-ren.md)
 * [加入拂晓](jia-ru-fu-xiao.md)
